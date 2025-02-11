@@ -1,5 +1,4 @@
-## Hi there 👋
-
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com font=arimo&weight=600&pause=1000&color=49F700&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Maks+Mr1necs)
 <!--
 **mr1necs/mr1necs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hi%20there!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)

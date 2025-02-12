@@ -12,7 +12,7 @@ I am a computer science student passionate about robotics, artificial intelligen
 ### 👤 Contact Me
 [<img align="left" alt="Instagram" width="30px" src="https://github.com/mr1necs/mr1necs/blob/main/img/instagram.svg" />][instagram]
 [<img align="left" alt="Telegram" width="30px" src="https://github.com/mr1necs/mr1necs/blob/main/img/telegram.svg" />][telegram]
-[<img align="left" alt="Vk" width="30px" src="https://github.com/mr1necs/mr1necs//blob/main/img/vk.svg" />][vk]
+[<img align="left" alt="Vk" width="30px" src="https://github.com/mr1necs/mr1necs/blob/main/img/vk.svg" />][vk]
 
 [instagram]: https://instagram.com/mr_1necs/
 [telegram]: https://t.me/mr_1necs

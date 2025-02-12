@@ -3,3 +3,6 @@
 ### 🚀 About Me
 
 I am a computer science student passionate about robotics, artificial intelligence, and developing projects related to physical objects and automated systems. I work with Arduino, JetBot, and focus on developing solutions in the field of machine learning.
+
+### Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=mr1necs&column=8&theme=gruvbox&no-frame=true)]

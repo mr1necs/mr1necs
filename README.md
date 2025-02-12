@@ -1,4 +1,4 @@
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arimo&weight=600&pause=1000&color=079EF7&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Maks+Mr1necs)
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arimo&weight=600&pause=500&color=079EF7&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Maks+Mr1necs)
 
 ### 🚀 About Me
 
@@ -19,6 +19,8 @@
 - Programming Languages: Python, C++, Java, SQL, Bash
 - Frameworks & Libraries: OpenCV, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, SciPy, Seaborn, Keras
 - DevOps & Tools: Docker, Git, GitHub, CI/CD, Linux, Bash scripting
+
+<br />
 
 ### ✨ Statistics
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mr1necs&show_icons=true&theme=nord&hide_border=true" />

@@ -12,6 +12,8 @@
 
 ### ✨ Statistics
 [<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mr1necs&show_icons=true&theme=nord&hide_border=true" />]
+</br>
+</br>
 
 ### 🏆 Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=mr1necs&column=8&theme=gruvbox&no-frame=true)

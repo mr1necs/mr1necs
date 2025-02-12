@@ -10,6 +10,9 @@
 - Frameworks & Libraries: OpenCV, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, SciPy, Seaborn, Keras
 - DevOps & Tools: Docker, Git, GitHub, CI/CD, Linux, Bash scripting
 
+### ✨ Statistics
+[<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mr1necs&show_icons=true&theme=nord&hide_border=true" />]
+
 ### 🏆 Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=mr1necs&column=8&theme=gruvbox&no-frame=true)
 

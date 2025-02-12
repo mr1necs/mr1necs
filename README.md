@@ -1,6 +1,9 @@
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arimo&weight=600&pause=1000&color=079EF7&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Maks+Mr1necs)
 
-### 👤 Contact Me
+### 🚀 About Me
+
+#### I am a computer science student passionate about robotics, artificial intelligence, and developing projects related to physical objects and automated systems. I work with Arduino, JetBot, and focus on developing solutions in the field of machine learning.
+
 [<img align="left" alt="Instagram" width="30px" src="https://github.com/mr1necs/mr1necs/blob/main/img/instagram.svg" />][instagram]
 [<img align="left" alt="Telegram" width="30px" src="https://github.com/mr1necs/mr1necs/blob/main/img/telegram.svg" />][telegram]
 [<img align="left" alt="Vk" width="30px" src="https://github.com/mr1necs/mr1necs/blob/main/img/vk.svg" />][vk]
@@ -8,10 +11,6 @@
 [instagram]: https://instagram.com/mr_1necs/
 [telegram]: https://t.me/mr_1necs
 [vk]: https://vk.com/mr_1necs
-
-### 🚀 About Me
-
-#### I am a computer science student passionate about robotics, artificial intelligence, and developing projects related to physical objects and automated systems. I work with Arduino, JetBot, and focus on developing solutions in the field of machine learning.
 
 ### 🔧 Skills & Technologies
 

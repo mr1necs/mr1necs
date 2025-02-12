@@ -19,7 +19,6 @@
 - Programming Languages: Python, C++, Java, SQL, Bash
 - Frameworks & Libraries: OpenCV, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, SciPy, Seaborn, Keras
 - DevOps & Tools: Docker, Git, GitHub, CI/CD, Linux, Bash scripting
-
 <br />
 
 ### ✨ Statistics
@@ -34,7 +33,7 @@
 <br /> 
 <br />
 <br />
-
+<br />
 
 ### 🏆 Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=mr1necs&column=8&theme=gruvbox&no-frame=true)

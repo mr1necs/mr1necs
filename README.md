@@ -5,15 +5,15 @@
 I am a computer science student passionate about robotics, artificial intelligence, and developing projects related to physical objects and automated systems. I work with Arduino, JetBot, and focus on developing solutions in the field of machine learning.
 
 ### 🔧 Skills & Technologies
-[<img align="left" alt="Linkedin" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/instagram.svg" />][instagram]
-[<img align="left" alt="VK" width="30px" src="https://github.com/paveldat/paveldat/blob/main/img/vk.svg" />][vk]
-[<img align="left" alt="Gmail" width="40px" src="https://github.com/paveldat/paveldat/blob/main/img/gmail1.svg" />][gmail]
-
-[linkedin]: https://www.linkedin.com/in/pavel-dat-11699420b/
-[instagram]: https://www.instagram.com/pasha_dats/
-[vk]: https://vk.com/pashkadats
-[gmail]: mailto:dats.pavel1999@gmail.com
 
 ### 🏆 Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=mr1necs&column=8&theme=gruvbox&no-frame=true)
+
+### 👤 Contact Me
+[<img align="left" alt="Instagram" width="30px" src="https://github.com/mr1necs/mr1necs/blob/main/img/instagram.svg" />][instagram]
+[<img align="left" alt="Telegram" width="30px" src="https://github.com/mr1necs/mr1necs/blob/main/img/vk.svg" />][telegram]
+[<img align="left" alt="Vk" width="30px" src="https://github.com/mr1necs/mr1necs//blob/main/img/gmail1.svg" />][vk]
+
+[instagram]: https://instagram.com/mr_1necs/
+[telegram]: https://t.me/mr_1necs
+[vk]: https://vk.com/mr_1necs
